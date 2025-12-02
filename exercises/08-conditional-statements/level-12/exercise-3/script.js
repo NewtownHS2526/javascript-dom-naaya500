@@ -16,3 +16,6 @@ if (age < 18) {
 } else {
     console.log("Senior");
 }
+
+
+console.log("Age group classification complete.");
